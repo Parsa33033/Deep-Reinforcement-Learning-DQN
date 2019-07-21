@@ -15,5 +15,5 @@ Deep Reinforcement Learning containing
 4) cuDNN 7.1.4
 
 # Results
-[!image](https://github.com/Parsa33033/Deep-Reinforcement-Learning-DQN/blob/master/Plot/Figure_1.png)
+![image](https://github.com/Parsa33033/Deep-Reinforcement-Learning-DQN/blob/master/Plot/Figure_1.png)
 the results are the mean of the scores in each 200 episodes.

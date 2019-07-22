@@ -16,7 +16,7 @@ Deep Reinforcement Learning containing
 
 # Results
 ![image](https://github.com/Parsa33033/Deep-Reinforcement-Learning-DQN/blob/master/Plot/Figure_1.png)
-the results are the mean of the scores in each 200 episodes.
+the results are the mean of the scores in each 200 episodes of cartpole-v1.
 
 # tutorial
 link to the tutorial: [link](https://medium.com/@parsa_h_m/deep-reinforcement-learning-dqn-double-dqn-dueling-dqn-noisy-dqn-and-dqn-with-prioritized-551f621a9823)
